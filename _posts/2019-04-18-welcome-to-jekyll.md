@@ -12,21 +12,14 @@ tags:
 ---
 
 <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
-  <div style="flex: 1; min-width: 22%; text-align: center;">
-    <img src="/assets/images/languagelearning1.jpg" alt="小红书封面设计1" style="width: 100%; border-radius: 8px;">
-    <p style="font-size: 0.85em; margin-top: 5px;">设计1</p>
+  <div style="flex: 1; min-width: 30%; text-align: center;">
+    <img src="../assets/images/languagelearning1.jpg" alt="小红书封面设计" style="width: 100%; border-radius: 8px;">
   </div>
-  <div style="flex: 1; min-width: 22%; text-align: center;">
-    <img src="/assets/images/languagelearning2.jpg" alt="小红书封面设计2" style="width: 100%; border-radius: 8px;">
-    <p style="font-size: 0.85em; margin-top: 5px;">设计2</p>
+  <div style="flex: 1; min-width: 30%; text-align: center;">
+    <img src="../assets/images/languagelearning2.jpg" alt="小红书封面设计" style="width: 100%; border-radius: 8px;">
   </div>
-  <div style="flex: 1; min-width: 22%; text-align: center;">
-    <img src="/assets/images/languagelearning3.jpg" alt="小红书封面设计3" style="width: 100%; border-radius: 8px;">
-    <p style="font-size: 0.85em; margin-top: 5px;">设计3</p>
-  </div>
-  <div style="flex: 1; min-width: 22%; text-align: center;">
-    <img src="/assets/images/languagelearning4.jpg" alt="小红书封面设计4" style="width: 100%; border-radius: 8px;">
-    <p style="font-size: 0.85em; margin-top: 5px;">设计4</p>
+  <div style="flex: 1; min-width: 30%; text-align: center;">
+    <img src="../assets/images/languagelearning3.jpg" alt="小红书封面设计" style="width: 100%; border-radius: 8px;">
   </div>
 </div>
 
