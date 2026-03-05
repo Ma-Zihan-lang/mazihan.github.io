@@ -1,5 +1,5 @@
 ---
-title: "【PoemsForYou为你写诗】品牌文案：我们读诗写诗，因为我们是人类的一员"
+title: "【PoemsForYou为你写诗】文案：我们读诗写诗，因为我们是人类的一员"
 categories:
   - 内容创作
   - 个人思考
