@@ -1,6 +1,6 @@
 ---
 title: "名人聚焦：萨莎罗南的成长轨迹"
-I think it’s important that we represent that on screen, not just one version of who we think a woman should be.
+##I think it’s important that we represent that on screen, not just one version of who we think a woman should be.##
 categories:
   - 内容创作
   - 文化观察
