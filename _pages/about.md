@@ -1,5 +1,5 @@
 ---
-permalink: /关于我/
+permalink: /about/
 title: "About Me 关于我"
 ---
 
