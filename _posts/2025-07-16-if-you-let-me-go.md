@@ -14,9 +14,8 @@ tags:
   
   <!-- 左侧封面大图 -->
   <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="/assets/images/maurice.jpg" alt="封面主题图" 
+    <img src="{{ site.baseurl }}/assets/images/maurice.jpg" alt="" 
          style="width: 100%; max-width: 500px; border-radius: 12px; box-shadow: 0 5px 20px rgba(0,0,0,0.1);">
-    <p style="font-size: 0.9em; color: #888; margin-top: 10px; font-style: italic;">主视觉设计</p>
   </div>
   
   <!-- 右侧三张小图 -->
@@ -24,30 +23,18 @@ tags:
     <div style="display: flex; flex-direction: column; gap: 20px;">
       
       <div style="display: flex; align-items: center; gap: 15px;">
-        <img src="/assets/images/maurice2.jpg" alt="设计细节一" 
+        <img src="{{ site.baseurl }}/assets/images/maurice2.jpg" alt="" 
              style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; box-shadow: 0 3px 10px rgba(0,0,0,0.08);">
-        <div>
-          <p style="font-weight: 600; margin: 0 0 5px 0;">细节一</p>
-          <p style="font-size: 0.9em; color: #666; margin: 0;">设计元素的微妙呈现</p>
-        </div>
       </div>
       
       <div style="display: flex; align-items: center; gap: 15px;">
-        <img src="/assets/images/maurice3.jpg" alt="设计细节二" 
+        <img src="{{ site.baseurl }}/assets/images/maurice3.jpg" alt="" 
              style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; box-shadow: 0 3px 10px rgba(0,0,0,0.08);">
-        <div>
-          <p style="font-weight: 600; margin: 0 0 5px 0;">细节二</p>
-          <p style="font-size: 0.9em; color: #666; margin: 0;">色彩与构图的平衡</p>
-        </div>
       </div>
       
       <div style="display: flex; align-items: center; gap: 15px;">
-        <img src="/assets/images/maurice4.jpg" alt="设计细节三" 
+        <img src="{{ site.baseurl }}/assets/images/maurice4.jpg" alt="" 
              style="width: 150px; height: 150px; object-fit: cover; border-radius: 8px; box-shadow: 0 3px 10px rgba(0,0,0,0.08);">
-        <div>
-          <p style="font-weight: 600; margin: 0 0 5px 0;">细节三</p>
-          <p style="font-size: 0.9em; color: #666; margin: 0;">整体风格的统一性</p>
-        </div>
       </div>
       
     </div>
@@ -71,16 +58,16 @@ tags:
 <div style="position: relative; width: 100%; max-width: 900px; height: 500px; margin: 40px auto;">
   <!-- 第一张图，稍大，在中间偏左 -->
   <div style="position: absolute; top: 0; left: 0; width: 60%; z-index: 3; transform: rotate(-3deg); box-shadow: 0 8px 25px rgba(0,0,0,0.15);">
-    <img src="/assets/images/comment1.jpg" alt="评论区截图一" style="width: 100%; border-radius: 8px;">
+    <img src="{{ site.baseurl }}/assets/images/comment1.jpg" alt="" style="width: 100%; border-radius: 8px;">
   </div>
   
   <!-- 第二张图，稍小，在中间偏右，稍微旋转 -->
   <div style="position: absolute; top: 60px; right: 0; width: 50%; z-index: 2; transform: rotate(2deg); box-shadow: 0 6px 20px rgba(0,0,0,0.12);">
-    <img src="/assets/images/comment2.jpg" alt="评论区截图二" style="width: 100%; border-radius: 8px;">
+    <img src="{{ site.baseurl }}/assets/images/comment2.jpg" alt="" style="width: 100%; border-radius: 8px;">
   </div>
   
   <!-- 第三张图，中等，在左下角，稍微旋转 -->
   <div style="position: absolute; bottom: 0; left: 20%; width: 55%; z-index: 1; transform: rotate(1deg); box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
-    <img src="/assets/images/comment3.jpg" alt="评论区截图三" style="width: 100%; border-radius: 8px;">
+    <img src="{{ site.baseurl }}/assets/images/comment3.jpg" alt="" style="width: 100%; border-radius: 8px;">
   </div>
 </div>
