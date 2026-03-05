@@ -1,29 +1,20 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "想做更懂品牌、文化与传播的文字手艺人"
+date: 2026-03-05
 categories:
-  - blog
+  - 内容创作
+  - 个人思考
 tags:
-  - Jekyll
-  - update
+  - 品牌传播
+  - 文案写作
+  - 视觉表达
+  - 学习笔记
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Welcome to my Content Space!
+## 我的实践与作品
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+###1.社交媒体视觉设计
+审美高级，风格统一，传递核心价值点：长期主义与慢生活
+「我的封面设计」
+强烈的视觉冲击，引导用户阅读文案。
