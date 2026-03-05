@@ -15,12 +15,19 @@ It depicts "longtime college sweethearts who had very different plans for th
 一对在大学相识的恋人，在同一个夜晚，女孩决定分手，男孩决定求婚。《香槟问题》则是以拒婚的女孩的视角所写，在众口铄金中体现女孩的内心所想，充斥着悲伤而遗憾。题目 champagne problems 直译为香槟问题，在Eras Tour （时代巡演大电影）中被译为“小事一桩”。香槟酒在17-19世纪被认为是皇家的象征，后来逐渐在中产阶级的聚会中出现。在这个短语中，香槟是上流社会的代名词。“香槟问题”指的是富人才会有的问题，比如是今天到底是买一辆法拉利还是兰博基尼，略带讽刺意味，指陷入一种非普通人困境的两难境地。
 
 You booked the night train for a reason
+
 由于某种原因你订了夜间的车票，
+
 So you could sit there in this hurt
+
 所以你可以心痛着坐在那里。
-Bustling crowds or silent sleepers    
+
+Bustling crowds or silent sleepers
+
 喧嚷的人群和熟睡的车厢，
+
 You're not sure which is worse
+
 你不知道哪种情景更糟一点。
 
 歌曲开头先是第二人称，描述一个心情糟糕的男孩独自上了火车。时间已是深夜，车上的旅客都睡熟了。心情低落时，一切好像都是悲伤的，周围热闹抑或安静都与我无关，不知道哪一个更烂。自此孤独与悲伤奠定情感基调，采用倒叙，之后娓娓道来前面发生的故事。
