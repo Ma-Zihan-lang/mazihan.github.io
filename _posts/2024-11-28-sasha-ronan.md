@@ -18,25 +18,8 @@ tags:
 “Women are complex, and I think it’s important that we represent that on screen, not just one version of who we think a woman should be.”
 （“女性是复杂的，我认为在银幕上展现这一点很重要，而不是只展现我们认为女性应该成为的单一形象。”）
 
-<div style="
-  display: flex; 
-  justify-content: center; 
-  margin: 40px 0;
-  padding: 0 20px;
-">
-  <div style="
-    max-width: 800px; 
-    width: 100%;
-  ">
-    <img src="/assets/images/sasharonan.jpg" 
-         alt="" 
-         style="
-           width: 100%; 
-           height: auto; 
-           border-radius: 10px; 
-           box-shadow: 0 5px 20px rgba(0,0,0,0.1);
-         ">
-  </div>
+<div style="text-align: center; margin: 30px 0;">
+  <img src="/assets/images/sasharonan.jpg" alt="" style="width: 100%; max-width: 700px; border-radius: 8px;">
 </div>
 	
 🎬 主要作品：
