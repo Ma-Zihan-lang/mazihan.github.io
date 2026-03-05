@@ -13,12 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: 作品集 Portfolio 2026
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: 我是来自北外的英语专业学生，也是一名以语言为桥梁的创作者与策略思考者。我擅长将复杂的概念、抽象的事物转化为有温度、有传播力的叙事。我正将这份对文本的敏锐、对用户的洞察，以及对创意的热情，投向更广阔的文化领域。我始终相信，好的内容能与策略同频，链接人心。
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
