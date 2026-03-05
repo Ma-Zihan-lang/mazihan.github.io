@@ -76,7 +76,7 @@ footer:
       url: "https://www.instagram.com/jamie_bluest?igsh=MXU0ZWM4bGUzaDFwbA%3D%3D&utm_source=qr"
 
 defaults:
-  # _posts
+  # 应用于所有 `_posts` 文件夹下的文章
   - scope:
       path: ""
       type: posts
@@ -87,14 +87,38 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+
+  # 应用于“分类”归档页面
+  - scope:
+      path: ""
+      type: categories
+    values:
+      layout: archive
+      title: "文章分类"
+
+  # 应用于“标签”归档页面
+  - scope:
+      path: ""
+      type: tags
+    values:
+      layout: archive
+      title: "文章标签"
+
+  # 应用于“年度归档”页面（对应 /year-archive/ 路径）
+  - scope:
+      path: "year-archive"
+    values:
+      layout: archive
+      title: "文章年度归档"
+
+  # 应用于 `_pages` 文件夹下的独立页面
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
-
+      
 category_archive:
   type: liquid
   path: /categories/
