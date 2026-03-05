@@ -1,8 +1,39 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me 关于我"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## 你好，我是马子涵 ✨
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+一名对内容创作与叙事充满热情的英语专业学生，渴望将我的文字敏锐度和用户洞察力转化为有价值的品牌故事。
+Polyglot Storyteller & Cultural Strategist
+---
+
+### 🎯 我的营销观
+
+我相信，在信息过载的时代，打动人心的**好内容**是品牌与用户建立深度信任的最有效桥梁。我不仅关注“说什么”，更痴迷于研究“如何说”以及“为何有效”。
+
+### 📁 经历与项目
+
+*   **小红书运营** 
+    *   独立负责选题、写作与排版，在3个月内累积了1600粉丝，其中单篇最高阅读量达1.3万。
+    *   通过这次实践，我学会了如何创造让大众引起共鸣的有温度叙事，并理解了持续输出对建立个人品牌的重要性。
+
+*   **产品推广** [PoemsForYou为你写诗/观夏]
+    *   为PoemsForYou为你写诗策划并执行了一次内容推广，撰写的产品推文获得品牌方采纳和认可。
+    *   为观夏香水品牌撰写一条社交媒体品牌推文，引发核心受众共鸣。
+
+### 📖 持续学习与观察
+
+我始终保持优质内容的输入，坚持学习与创作的长期主义，近期关注并思考：
+1.  **AI 辅助创作**：如何利用AI工具提升 brainstorming的质量，同时保持内容的“人性化”？
+2.  **跨界叙事**：消费品牌如何借鉴游戏、影视的叙事方法来构建更宏大的品牌世界？
+
+### 📬 保持联系
+
+我始终敞开交流的大门，如果您有实习机会或只是想聊聊内容创意，欢迎随时通过以下方式找到我：
+
+*   **邮箱**：m898244634@163.com
+*   **Substack**：zihanma.substack.com
+
+---
