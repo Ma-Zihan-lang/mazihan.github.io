@@ -1,32 +1,61 @@
 ---
-title: "Post: Standard"
-excerpt_separator: "<!--more-->"
+title: "名人聚焦：萨莎罗南的成长轨迹"
+I think it’s important that we represent that on screen, not just one version of who we think a woman should be.
 categories:
-  - Blog
+  - 内容创作
+  - 文化观察
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - 跨文化
+  - 学习笔记
+  - 自我认知
 ---
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+罗南第一次给我留下印象还是在戴锦华老师讲伯德小姐的那一期视频，后来惊喜发现她还参演过赎罪和小妇人。相较于以往聚焦于导演的观影顺序，将目光聚焦于某个特定演员，也能有一些特别的发现。
+	
+罗南在爱尔兰的一个小镇长大，她的名字Saoirse在爱尔兰语中是“自由”的意思。她在13岁时参演《赎罪》，获得奥斯卡女配提名，之后又凭借电影《布鲁克林》和与导演格蕾塔·葛韦格（Greta Gerwig）合作的两部电影《小妇人》和《伯德小姐》获得奥斯卡提名，她以女性视角为核心的影视作品备受赞誉，在银幕上所塑造的女性形象独立、富有个性和思想。
+	
+正如她自己在采访中所说：
+“Women are complex, and I think it’s important that we represent that on screen, not just one version of who we think a woman should be.”
+（“女性是复杂的，我认为在银幕上展现这一点很重要，而不是只展现我们认为女性应该成为的单一形象。”）
 
-Mrs. Darling first heard of Peter when she was tidying up her children's minds. It is the nightly custom of every good mother after her children are asleep to rummage in their minds and put things straight for next morning, repacking into their proper places the many articles that have wandered during the day.
-
-<!--more-->
-
-This post has a manual excerpt `<!--more-->` set after the second paragraph. The following YAML Front Matter has also be applied:
-
-```yaml
-excerpt_separator: "<!--more-->"
-```
-
-If you could keep awake (but of course you can't) you would see your own mother doing this, and you would find it very interesting to watch her. It is quite like tidying up drawers. You would see her on her knees, I expect, lingering humorously over some of your contents, wondering where on earth you had picked this thing up, making discoveries sweet and not so sweet, pressing this to her cheek as if it were as nice as a kitten, and hurriedly stowing that out of sight. When you wake in the morning, the naughtiness and evil passions with which you went to bed have been folded up small and placed at the bottom of your mind and on the top, beautifully aired, are spread out your prettier thoughts, ready for you to put on.
-
-I don't know whether you have ever seen a map of a person's mind. Doctors sometimes draw maps of other parts of you, and your own map can become intensely interesting, but catch them trying to draw a map of a child's mind, which is not only confused, but keeps going round all the time. There are zigzag lines on it, just like your temperature on a card, and these are probably roads in the island, for the Neverland is always more or less an island, with astonishing splashes of colour here and there, and coral reefs and rakish-looking craft in the offing, and savages and lonely lairs, and gnomes who are mostly tailors, and caves through which a river runs, and princes with six elder brothers, and a hut fast going to decay, and one very small old lady with a hooked nose. It would be an easy map if that were all, but there is also first day at school, religion, fathers, the round pond, needle-work, murders, hangings, verbs that take the dative, chocolate pudding day, getting into braces, say ninety-nine, three-pence for pulling out your tooth yourself, and so on, and either these are part of the island or they are another map showing through, and it is all rather confusing, especially as nothing will stand still.
-
-Of course the Neverlands vary a good deal. John's, for instance, had a lagoon with flamingoes flying over it at which John was shooting, while Michael, who was very small, had a flamingo with lagoons flying over it. John lived in a boat turned upside down on the sands, Michael in a wigwam, Wendy in a house of leaves deftly sewn together. John had no friends, Michael had friends at night, Wendy had a pet wolf forsaken by its parents, but on the whole the Neverlands have a family resemblance, and if they stood still in a row you could say of them that they have each other's nose, and so forth. On these magic shores children at play are for ever beaching their coracles [simple boat]. We too have been there; we can still hear the sound of the surf, though we shall land no more.
-
-Of all delectable islands the Neverland is the snuggest and most compact, not large and sprawly, you know, with tedious distances between one adventure and another, but nicely crammed. When you play at it by day with the chairs and table-cloth, it is not in the least alarming, but in the two minutes before you go to sleep it becomes very real. That is why there are night-lights.
-
-Occasionally in her travels through her children's minds Mrs. Darling found things she could not understand, and of these quite the most perplexing was the word Peter. She knew of no Peter, and yet he was here and there in John and Michael's minds, while Wendy's began to be scrawled all over with him. The name stood out in bolder letters than any of the other words, and as Mrs. Darling gazed she felt that it had an oddly cocky appearance.
+<div style="
+  display: flex; 
+  justify-content: center; 
+  margin: 40px 0;
+  padding: 0 20px;
+">
+  <div style="
+    max-width: 800px; 
+    width: 100%;
+  ">
+    <img src="/assets/images/sasharonan.jpg" 
+         alt="" 
+         style="
+           width: 100%; 
+           height: auto; 
+           border-radius: 10px; 
+           box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+         ">
+  </div>
+</div>
+	
+🎬 主要作品：
+	
+《赎罪》（2007）
+年幼的布里奥妮因误解与谎言改变了三人的命运，在懊悔与赎罪中成长，最终试图用文字弥补难以挽回的伤害。
+	
+《布达佩斯大饭店》（2014）
+饰演厨娘阿格莎，以无畏的行动协助爱人，融入一场荒诞却感人的冒险故事。
+	
+《布鲁克林》（2015）
+女孩为追求梦想在美国与爱尔兰间徘徊，在文化冲突与情感抉择中成长并勇敢掌控自己的命运。
+	
+《伯德小姐》（2017）
+饰演叛逆高中生克里斯汀，努力挣脱家庭束缚，在追寻梦想的过程中，发现自我与家庭，与母亲的深厚羁绊。
+	
+《小妇人》（2019）
+饰演乔·马奇，在文学创作与独立生活中追求自我，在家庭与爱情间逐渐找到属于自己的位置。
+	
+她在24年新片《闪电战》中饰演一个二战中的母亲，《逃脱》中饰演一个酒精瘾者。
+	
+这些性格各异的女性角色，她们的故事或许散落在不同的时空中，但无一例外地展现了女性在爱与孤独、追寻与抗争中的无限力量与韧性——她们不只是角色，而是每一位真实而勇敢的女性的缩影。
