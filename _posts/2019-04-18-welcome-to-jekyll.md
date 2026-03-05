@@ -13,13 +13,13 @@ tags:
 
 <div style="display: flex; justify-content: space-between; gap: 10px; flex-wrap: wrap; margin: 20px 0;">
   <div style="flex: 1; min-width: 30%; text-align: center;">
-    <img src="../assets/images/languagelearning1.jpg" alt="小红书封面设计" style="width: 100%; border-radius: 8px;">
+    <img src="{{ site.baseurl }}/assets/images/languagelearning1.jpg" alt="小红书封面设计" style="width: 100%; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 30%; text-align: center;">
-    <img src="../assets/images/languagelearning2.jpg" alt="小红书封面设计" style="width: 100%; border-radius: 8px;">
+    <img src="{{ site.baseurl }}/assets/images/languagelearning2.jpg" alt="小红书封面设计" style="width: 100%; border-radius: 8px;">
   </div>
   <div style="flex: 1; min-width: 30%; text-align: center;">
-    <img src="../assets/images/languagelearning3.jpg" alt="小红书封面设计" style="width: 100%; border-radius: 8px;">
+    <img src="{{ site.baseurl }}/assets/images/languagelearning3.jpg" alt="小红书封面设计" style="width: 100%; border-radius: 8px;">
   </div>
 </div>
 
