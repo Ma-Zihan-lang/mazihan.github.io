@@ -3,13 +3,12 @@ permalink: /about/
 title: "About Me 关于我"
 ---
 
-## 你好，我是马子涵 ✨
+## 你好，我是马子涵 ✨ A Polyglot Storyteller & Cultural Strategist
 
 一名对内容创作与叙事充满热情的英语专业学生，渴望将我的文字敏锐度和用户洞察力转化为有价值的品牌故事。
-Polyglot Storyteller & Cultural Strategist
 ---
 
-### 🎯 我的营销观
+### What I Believe
 
 我相信，在信息过载的时代，打动人心的**好内容**是品牌与用户建立深度信任的最有效桥梁。我不仅关注“说什么”，更痴迷于研究“如何说”以及“为何有效”。
 
